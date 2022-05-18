@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+## Welcome to SecretCrush
 
-You can use the [editor on GitHub](https://github.com/TheQuantumExplorer/website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+SecretCrush 🍑 is a minimalistic browser hidden behind an unsuspected candy crush game. The browser can be accessed and fastly hidden using key shortcuts.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Download
 
-### Markdown
+[For Windows](https://www.mediafire.com/file/djhf2lmgsg53idt/SecretCrush.exe/file)  
+[For MacOS](https://www.mediafire.com/file/8c4mfseijejwq35/SecretCrush.dmg/file)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Why SecretCrush
 
-```markdown
-Syntax highlighted code block
+* Privacy 🔒
+* Hidden 🙈
+* Safe 🤤
+* Innocuous (in appearance) 🔞
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Functionalities
 
-1. Numbered
-2. List
+* Favorites management
+* Shortcuts to interesting websites
+* Password protection 
+* Minimal (hashed) storage on the system
+* Inactivity timer to hide the browser
+* Quick hide
+* Quick mute
+* Out of focus blur
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TheQuantumExplorer/website/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![](/docs/assets/preview.gif)
+  
+![](/docs/assets/preview_0.png)
+![](/docs/assets/preview_2.png)
+![](/docs/assets/preview_1.png)
+![](/docs/assets/preview_3.png)

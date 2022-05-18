@@ -1,1 +1,6 @@
 theme: jekyll-theme-architect
+title: [SecretCrush browser]
+description: [Hidden browser for the naughty ones.]
+github:
+  repository_url: https://gitlab.com/secretcrush1/SecretCrushBrowser
+  is_project_page: false
